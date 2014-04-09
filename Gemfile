@@ -18,7 +18,7 @@ gem 'jbuilder', '~> 1.2'
 
 gem 'ancestry'
 
-gem "active_model_serializers"
+gem 'active_model_serializers'
 
 group :test do
   gem 'minitest'
