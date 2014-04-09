@@ -1,0 +1,12 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+valid:
+  name: Valid Jones
+  email: valid@validated.co.uk
+
+no_name:
+  email: dong@dong.com
+
+invalid_email:
+  name: Dog Jones
+  email: nope

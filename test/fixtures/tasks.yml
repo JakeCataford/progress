@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+simple:
+  title: Simple Example Task
+  description: Has no dependencies or state
+
+other:
+  title: other task for tree operations
+  description: Is used for testing associations
