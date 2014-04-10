@@ -1,6 +1,5 @@
-# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
-
 valid:
+  id: 1
   name: Valid Jones
   email: valid@validated.co.uk
 

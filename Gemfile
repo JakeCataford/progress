@@ -18,6 +18,8 @@ gem 'jbuilder', '~> 1.2'
 
 gem 'ancestry'
 
+gem 'faker'
+
 gem 'active_model_serializers'
 
 group :test do
